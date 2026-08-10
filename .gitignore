@@ -1,0 +1,14 @@
+# Cadence Xcelium simulation artifacts
+sim/xcelium.d/
+sim/*.history
+sim/*.log
+sim/wave.shm/
+sim/.simvision/
+sim/INCA_libs/
+sim/*.key
+sim/*.diag
+
+# Editor / OS
+.vscode/
+*.swp
+.DS_Store

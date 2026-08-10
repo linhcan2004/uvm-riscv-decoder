@@ -1,8 +1,4 @@
 # UVM Verification Environment for a RISC-V Instruction Decoder
-
-Constrained-random UVM testbench built during the **Viettel Digital Talent** program
-(Semiconductor: Digital Design and Verification track), Lab 3.
-
 ## What this verifies
 
 The DUT is `DecodeUnit`, a Chisel-generated RTL block from the

@@ -35,7 +35,7 @@ Both were found by adding temporary `uvm_info` logging to the scoreboard, dumpin
 log to a file, and grepping for the failing instruction/signal before cross-checking
 against the RTL.
 
-## Running it
+## How to run
 
 ```bash
 cd sim
